@@ -1,5 +1,6 @@
 body {
-    font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+    /*font-family: "Lucida Grande", Verdana, Arial, sans-serif;*/
+    font-family: 'Poor Story', cursive;
     font-size: 12px;
 }
 
@@ -120,5 +121,5 @@ td, th {
     border-bottom: 1px solid #eee;
     vertical-align: top;
     padding: 5px 15px;
-    font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+
 }
